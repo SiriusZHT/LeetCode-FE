@@ -8,9 +8,9 @@ LeetCode 刷题仓库 和 Sirius 的前端面试复习相关仓库
   - JS 面试手写场景题
   - 字节跳动 在 CodeTop 官网上出现的频率 Top180 道算法题
 - JS-Leetcode 目录
-  Sirius folk 并 增删改 的 前端算法库：https://github.com/cunzaizhuyi/js-leetcode  
-   这里记录了 Sirius 和 cunzaizhuyi 刷过的 500 多道 LeetCode 的题解，
-  希望对前端同行找工作面试、修炼算法内功有帮助。
+  - Sirius folk 并 增删改 的 前端算法库：https://github.com/cunzaizhuyi/js-leetcode
+  - 这里记录了 Sirius 和 cunzaizhuyi 刷过的 500 多道 LeetCode 的题解，
+    希望对前端同行找工作面试、修炼算法内功有帮助。
 - Sirius 的 交流群：813739565
   cunzaizhuyi 的 前端算法交流群：621067993
   另外，刷题之前，先看下经典数据结构与算法的 js 实现是很重要的。cunzaizhuyi 把它拆分到了另一个仓库里。
